@@ -1,5 +1,5 @@
 # RetrofitRxJavaGithub
-RxJava with retrofit example
+RxJava 2 with retrofit example
 <h2>Demo</h2>
 <img src='https://i.imgsafe.org/4d/4da425eff8.gif'/>
 <br>
